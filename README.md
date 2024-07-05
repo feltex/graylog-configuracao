@@ -4,6 +4,8 @@ Bem-vindo ao repositório do projeto de configuração do Graylog utilizando Doc
 
 ## Assista o nosso vídeo no youtube
 
+https://youtu.be/yatpJUJy0nU
+
 
 
 ## Sumário
